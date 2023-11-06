@@ -69,11 +69,35 @@ The data was uploaded to Big Query due to the immerse of the dataset for cleanin
 </ul>
 
 **Data Aggregation**
+
+<a href="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/main/data%20aggregation.sql" color="blue">SQL query</a>
 <ul>
   <li>Table 1-4 were aggregated using UNION ALL
 </li>
   <li>Start_lat, start_lng,end_lat and end_lng were filtered out.</li>
 </ul>
+
+**Data Cleaning**
+
+<a href="" color="blue">SQL query</a>
+<ul>
+  <li>extracted day of the week
+</li>
+  <li>created trip duration in minute
+</li>
+  <li>filtered out trip less than 1 minute and greater than 24 hours
+</li>
+  <li>filtered out null values in start station and end station names
+</li>
+  <li>Excluded start_lat, end_lat, start_lng and end_lng
+</li>
+</ul>
+
+**Data Validation**
+Confirm if there still exist any null values
+Ensured that number of data  clean data = original data - filtered data
+
+
 
 
 
