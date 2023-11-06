@@ -100,7 +100,14 @@ The data was uploaded to Big Query due to the immerse of the dataset for cleanin
 Confirm if there still exist any null values
 Ensured that number of data  clean data = original data - filtered data
 
+## ANALYSIS
+**Key Takeaway**: Casual riders take longer trips than annual members, and they prefer classic bikes. However, the top 5 stations used by casual riders are completely different from the top 5 stations used by annual members.Annual member type also preferred classic bike type
 
+
+<figure>
+  <legend> This is an image</legend>
+  <img src="">
+</figure>
 
 
 
