@@ -79,7 +79,7 @@ The data was uploaded to Big Query due to the immerse of the dataset for cleanin
 
 **Data Cleaning**
 
-<a href="" color="blue">SQL query</a>
+<a href="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/main/data%20cleaning%20and%20validation.sql" color="blue">SQL query</a>
 <ul>
   <li>extracted day of the week
 </li>
@@ -94,6 +94,9 @@ The data was uploaded to Big Query due to the immerse of the dataset for cleanin
 </ul>
 
 **Data Validation**
+
+<a href="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/main/data%20cleaning%20and%20validation.sql" color="blue">SQL query</a>
+
 Confirm if there still exist any null values
 Ensured that number of data  clean data = original data - filtered data
 
