@@ -69,6 +69,11 @@ The data was uploaded to Big Query due to the immerse of the dataset for cleanin
 </ul>
 
 **Data Aggregation**
+<ul>
+  <li>Table 1-4 were aggregated using UNION ALL
+</li>
+  <li>Start_lat, start_lng,end_lat and end_lng were filtered out.</li>
+</ul>
 
 
 
