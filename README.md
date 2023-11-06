@@ -105,8 +105,8 @@ Ensured that number of data  clean data = original data - filtered data
 
 
 <figure>
-  <legend> This is an image</legend>
-  <img src="">
+  <legend> <a href="https://public.tableau.com/app/profile/ehijele.david6880/viz/Cyclistic_Share_16990639629980/Sheet8" color="blue">View Trip Visualization on Tableau</a> </legend>
+  <img src="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/main/Trip_Duration.png">
 </figure>
 
 
