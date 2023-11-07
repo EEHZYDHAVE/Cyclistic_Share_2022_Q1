@@ -135,7 +135,8 @@ Ensured that number of data  clean data = original data - filtered data
 **Average Trip Duration By Rider**
 
 The average trip duration is more in the casual rider type section
-Recommendation: Further analysis should be done on why casual customers engage in longer trips, then the marketing campaign can be targeted to apply such to the annual member type to get more subscribers
+
+**Recommendation**: Further analysis should be done on why casual customers engage in longer trips, then the marketing campaign can be targeted to apply such to the annual member type to get more subscribers
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View Average trip duration Visualization on Tableau</a> </legend>
@@ -146,7 +147,8 @@ Recommendation: Further analysis should be done on why casual customers engage i
 **Bike Types**
 
 Classic bikes are preferred more by both annual members and casual members. However, annual members were much more likely to switch from electric bikes to classic bikes than casual riders. There was a 100%+ increase in annual members switching to classic bikes, compared to a 47% increase in casual riders switching to classic bikes.
-Recommendation: The market analyst team should consider classic bikes when designing marketing strategies, as customers are more familiar with this bike type
+
+**Recommendation**: The market analyst team should consider classic bikes when designing marketing strategies, as customers are more familiar with this bike type
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/Bike_Type?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View Bike Types Visualization on Tableau</a> </legend>
@@ -167,7 +169,8 @@ The<i> Millennium Park, Daley Center Plaza, Theater on the Lake</i> and <i>900 W
 **End Station**
 
 The <i>Millennium Park, Daley Center Plaza, Theater on the Lake</i> and <i>900 W Harrison st</i> are common among both Rider type. Casual members are most dense around the <i>Millennium park, Shedd Aquarium</i> and <i>Theater on the Lake</i>
-Recommendation: The marketing team should target casual riders at <i>Millennium Park, Shedd Aquarium</i>, and <i>Theater on the Lake first</i> when trying to convert casual members to annual members.
+
+**Recommendation**: The marketing team should target casual riders at <i>Millennium Park, Shedd Aquarium</i>, and <i>Theater on the Lake first</i> when trying to convert casual members to annual members.
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/End_Station?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View End Station Visualization on Tableau</a> </legend>
@@ -178,7 +181,8 @@ Recommendation: The marketing team should target casual riders at <i>Millennium 
 **Day of Week**
 
 There is an evenly distribution of trip duration and number of trips across each day of the week.
-Recommendation: The day of the week is less important when distinguishing annual members from casual riders, so marketing campaigns can be less restrictive in considering this factor.
+
+**Recommendation**: The day of the week is less important when distinguishing annual members from casual riders, so marketing campaigns can be less restrictive in considering this factor.
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/Sheet5?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View Day of Week Visualization on Tableau</a> </legend>
@@ -189,7 +193,8 @@ Recommendation: The day of the week is less important when distinguishing annual
 **Trip Distance**
 
 Casual riders typically have longer trip durations than annual members. The median trip duration for casual riders is 266 minutes (4 hours and 26 minutes), while the median trip duration for annual members is 234 minutes (3 hours and 54 minutes). There are also a few annual members with very long trip durations (outliers).
-Recommendation: Analyze why casual riders engage in longer trips than annual members.
+
+**Recommendation**: Analyze why casual riders engage in longer trips than annual members.
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/Sheet8?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View Trip Duration Visualization on Tableau</a> </legend>
