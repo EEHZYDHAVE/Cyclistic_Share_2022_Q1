@@ -224,8 +224,7 @@ Based on the analysis, the following recommendation are suggestion
 
 <strong>Project Reflection</strong>
 
-This is my first data analyst project were I followed a structured process from the initial problem to the recommendation phase. I also gained more familiarity with Google BigQuery for SQL, Google Sheets, and more Tableau functionalities.Also got more familiar with thought process of a data analyst 
-
+This is my first data analyst project, where I followed a structured process from the initial problem to the recommendation phase. I also gained more familiarity with Google BigQuery for SQL, Google Sheets, and more Tableau functionalities. Additionally, I became more familiar with the thought process of a data analyst.
 
 
 
