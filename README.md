@@ -182,7 +182,7 @@ Recommendation: The day of the week is less important when distinguishing annual
 
 <figure>
   <legend> <a href="https://public.tableau.com/views/Cyclistic_Share_16990639629980/Sheet5?:language=en-GB&:display_count=n&:origin=viz_share_link" color="blue">View Day of Week Visualization on Tableau</a> </legend>
-  <img src="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/Visuals/End_Station.png">
+  <img src="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/Visuals/Start_Day.png">
 </figure>
 
 
