@@ -113,6 +113,10 @@ Ensured that number of data  clean data = original data - filtered data
 <br>
 
 ## ANALYSIS
+
+<a href="https://github.com/EEHZYDHAVE/Cyclistic_Share_2022_Q1/blob/main/Data_Analysis.sql" color="blue">SQL query</a>
+
+
 **Key Takeaway**: Casual riders take longer trips than annual members, and they prefer classic bikes. However, the top 5 stations used by casual riders are completely different from the top 5 stations used by annual members.Annual member type also preferred classic bike type
 <ul>
   <li>The average trip duration is more in the casual rider type section. With a figure of  21.98(approximately twice of the annual member), shows us at a quick glance they engage in longer trip
